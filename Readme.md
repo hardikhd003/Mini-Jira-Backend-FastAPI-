@@ -63,6 +63,8 @@ http://127.0.0.1:8000/docs
 * Team collaboration (multiple users per project)
 * Notifications
 * Frontend (React)
-* Deployment
 
 ---
+## 🌐 Live API
+
+https://mini-jira-backend-fastapi.onrender.com/docs
